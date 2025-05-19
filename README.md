@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Current Publications:</p>
+<h3 align="left">Current Publications:</h3>
 
 ###
 
