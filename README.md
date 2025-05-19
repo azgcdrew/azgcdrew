@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZxdDhib3cyMWh0dzhwdHgzd2dmMG53eW41ZmlkajRya3c4YnprMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/117nq2kn9CWoPm/giphy.gif" width="250"/>
+  <img src="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8" width="250"/>
 </div>
 
 <h1 align="center">Hi&nbsp;👋 I’m Andrew!</h1>
@@ -16,10 +16,6 @@
 </p>
 
 ---
-
-### 🔭 Current Projects
-- **GHIST2** – Predicting gene expression from H&E whole‑slide images  
-- **MAISY** – Motion Aware Image Synthesis for CT/PET motion correction
 
 ### 📝 Publications
 1. **MAISY: Motion Aware Image Synthesis for Motion Correction**  
