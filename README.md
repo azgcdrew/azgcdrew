@@ -6,7 +6,7 @@
 <h1 align="center">Hi&nbsp;👋 I’m Andrew!</h1>
 
 <p align="center">
-  <strong>PhD student</strong> at the <em>Biomedical Data Visualisation and Analysis (BDAV) Lab</em><br/>
+  <strong>PhD student</strong> at the <em>Biomedical Data Visualisation and Analysis (BDAV) Lab</em> and <em>Sydney Precision Data Science</em> <br/>
   Deep Learning&nbsp;·&nbsp;Medical Imaging&nbsp;·&nbsp;Whole‑Slide Images&nbsp;·&nbsp;Motion Correction
 </p>
 
