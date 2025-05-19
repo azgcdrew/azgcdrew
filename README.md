@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <div align="center">
-  <img src="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRkY21jbXhpMWV6ZjZ2M3hyZnE2bzI4bWMxeTB1d2M0aWlwNjdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="250"/>
 </div>
 
 <h1 align="center">Hi&nbsp;👋 I’m Andrew!</h1>
